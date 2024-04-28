@@ -6,6 +6,7 @@ clear
 export USERNAME="vpnvip"
 export REPO="izin"
 export EMAIL="scvipvpn@gmail.com"
+PASSWORD="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"
 export BRANCH="main"
 export FILE="registrasi.txt"
 export REPO_SET="https://raw.githubusercontent.com/petapaan/labang/main"
