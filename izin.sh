@@ -5,7 +5,7 @@ clear
 #===============================================
 export USERNAME="vpnvip"
 export REPO="izin"
-export PASSWORD="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"
+export PASSWORD="deKE6LBdUduzQhYJpp2nIQVebZPKvT1CpiDv"
 export EMAIL="scvipvpn@gmail.com"
 export BRANCH="main"
 export FILE="registrasi.txt"
