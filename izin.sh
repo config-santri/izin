@@ -28,7 +28,7 @@ clonerepo() {
 #===============================================
 delclone() {
     cd
-    cd key
+#    cd key
     rm -rf .$REPO
     rm -rf .gitconfig
     }
@@ -40,7 +40,7 @@ update() {
     git commit -m "izinip" > /dev/null 2>&1
     echo -e "$REPO" | git push https://$REPO:$PASSWORD@github.com/$USERNAME/$REPO.git > /dev/null 2>&1
     cd
-    cd key
+ #   cd key
     rm -rf .$REPO
 }
 #===============================================
